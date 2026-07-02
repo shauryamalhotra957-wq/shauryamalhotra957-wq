@@ -1,113 +1,294 @@
-<!-- VISITOR COUNTER & DYNAMIC HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=250&section=header&text=Shaurya%20Malhotra&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Applied%20AI%20Researcher%20|%20Automotive%20Engineering&descAlignY=55&descAlign=50" width="100%" />
-  <br>
-  <a href="https://github.com/shauryamalhotra957-wq">
-    <img src="https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:38bdf8&height=260&section=header&text=Shaurya%20Malhotra&fontSize=72&fontAlignY=34&animation=twinkling&fontColor=ffffff&desc=Applied%20AI%20%7C%20Embedded%20Systems%20%7C%20Automotive%20Intelligence&descAlignY=55&descAlign=50" width="100%" />
+
+<a href="https://github.com/shauryamalhotra957-wq">
+  <img src="https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/shaurya-malhotra-048555367/?skipRedirect=true">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shauryamalhotra957@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Computer+Engineering+%40+Thapar+Institute;Applied+AI+Researcher+in+the+Making;Building+Neuro-Adaptive+HMI+Systems;Embedded+AI+%2B+Automotive+Engineering;Future+Bugatti+Engineer" />
+
 </div>
 
-<!-- INTERACTIVE TYPING SUBTITLE -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Engineering+@+Thapar+Institute;Pushing+Boundaries+in+Neuro-Adaptive+HMI;Building+Circular+Economy+Tech+(Waste+Tinder);Future+Bugatti+Engineer" alt="Typing SVG" />
-  </a>
-</div>
+---
 
-<!-- PRIMARY CONNECT LINKS -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/shaurya-malhotra-048555367/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shauryamalhotra957@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+## `whoami`
 
-<br>
+```yaml
+name: Shaurya Malhotra
+role: Computer Engineering Undergraduate
+institution: Thapar Institute of Engineering and Technology
+focus:
+  - Applied Artificial Intelligence
+  - Embedded Systems and IoT
+  - Automotive Intelligence
+  - Neuro-Adaptive Human-Machine Interfaces
+  - Medical Image Segmentation
+  - Circular Economy Technology
+mission: Build intelligent systems that move from prototype to real-world engineering impact.
+```
 
-<!-- INTERACTIVE ACCORDION SECTIONS -->
-### 🏎️ The Engine Room (Click to Expand)
+I am a Computer Engineering student building at the intersection of **AI, hardware, software systems, and high-performance automotive engineering**.
 
-<details>
-  <summary><b>🧠 Applied AI & Automotive Research</b></summary>
-  <blockquote>
-    My primary research investigates <b>Neuro-Adaptive HMI and driver cognitive load</b> for high-performance applications. I am actively working to bridge the gap between cognitive AI and high-fidelity automotive engineering, with a long-term goal of engineering for <b>Bugatti</b>.
-  </blockquote>
-</details>
+My work is focused on one core idea:
 
-<details>
-  <summary><b>🌍 Sustainability & Circular Economy</b></summary>
-  <blockquote>
-    Passionate about using tech for resource redistribution. Currently developing solutions like <b>"Waste Tinder"</b> and <b>"EcoConnect"</b>, alongside IoT wearable devices designed for cognitive support.
-  </blockquote>
-</details>
+> Engineering should not just look impressive.  
+> It should sense, reason, adapt, and solve a real problem.
 
-<details>
-  <summary><b>🤝 Leadership & Off-Track Pursuits</b></summary>
-  <blockquote>
-    <ul>
-      <li><b>Leadership:</b> Team Leader in the iGV department at <b>AIESEC</b>, driving international team management and professional development.</li>
-      <li><b>Sports:</b> Former district-level table tennis player; always ready for a good rally and currently making a return to the table.</li>
-    </ul>
-  </blockquote>
-</details>
+I am currently exploring **AI-driven automotive interfaces, embedded intelligence, medical imaging models, IoT systems, and sustainability-focused platforms** with a long-term goal of contributing to elite automotive engineering environments like **Bugatti**.
 
-<br>
+---
 
-### 🛠️ Technical Arsenal
+## Core Engineering Identity
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;"><b>Core Languages</b></td>
-    <td align="center" width="33%" style="border: none;"><b>Web & Design</b></td>
-    <td align="center" width="33%" style="border: none;"><b>Hardware & Tools</b></td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" /></a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,figma&theme=dark" /></a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,github&theme=dark" /></a>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%">
+
+### Applied AI
+
+I build models and systems around:
+
+- Medical image segmentation
+- Computer vision pipelines
+- RAG-based verification systems
+- Edge AI concepts
+- Intelligent decision engines
+
+</td>
+<td width="50%">
+
+### Embedded + Automotive
+
+I work with hardware and control systems involving:
+
+- Arduino and SBC-based systems
+- Sensor-driven automation
+- IoT monitoring
+- Human-machine interaction
+- Automotive intelligence concepts
+
+</td>
+</tr>
 </table>
 
-<br>
+---
 
-### 🏆 GitHub Telemetry
+## Current Build Direction
 
-<!-- GAMIFIED TROPHIES -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shauryamalhotra957-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-<br>
+```mermaid
+flowchart LR
+    A[Raw Real-World Signal] --> B[Sensor / Data Capture]
+    B --> C[AI Processing Layer]
+    C --> D[Decision Intelligence]
+    D --> E[Human-Centered Interface]
+    E --> F[Real-World Action]
 
-<!-- STATS CARDS GRID -->
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=shauryamalhotra957-wq&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&ring_color=38bdf8" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryamalhotra957-wq&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff" alt="GitHub Streak" />
-    </td>
-  </tr>
+    style A fill:#020617,stroke:#38bdf8,color:#ffffff
+    style B fill:#020617,stroke:#38bdf8,color:#ffffff
+    style C fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    style D fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    style E fill:#020617,stroke:#38bdf8,color:#ffffff
+    style F fill:#020617,stroke:#38bdf8,color:#ffffff
+```
+
+My strongest interest is in building systems where **software intelligence controls or improves physical-world behavior**.
+
+---
+
+## Featured Engineering Tracks
+
+<table>
+<tr>
+<td width="33%">
+
+### Neuro-Adaptive HMI
+
+Researching how AI can understand driver cognitive load and adapt vehicle interfaces in real time.
+
+**Keywords:**  
+`HMI` `Cognitive Load` `Automotive AI` `Driver Assistance`
+
+</td>
+<td width="33%">
+
+### Medical AI
+
+Building segmentation-based models for detecting skull injuries, hematomas, and medical regions from scan data.
+
+**Keywords:**  
+`SegNet` `3D Models` `CT/MRI` `Computer Vision`
+
+</td>
+<td width="33%">
+
+### Embedded Intelligence
+
+Creating IoT and sensor-based systems that sense the environment, process data, and trigger useful action.
+
+**Keywords:**  
+`Arduino` `Sensors` `SBC` `Edge AI`
+
+</td>
+</tr>
 </table>
 
-<br>
+---
 
-<!-- DYNAMIC CONTRIBUTION SNAKE -->
-<h3 align="center">🐍 Contribution Map</h3>
+## Projects I Am Building Toward
+
+| Project | Domain | Engineering Focus |
+|---|---|---|
+| **Aero-X** | Automotive AI | Neural active aerodynamics using distributed sensing and adaptive control |
+| **VerifiNews** | AI + RAG | News verification system using retrieval, credibility scoring, and source analysis |
+| **Waste Tinder** | Circular Economy | Resource redistribution platform for waste reuse and sustainability |
+| **EcoConnect** | Sustainability Tech | Connecting people, materials, and environmental action through software |
+| **Skull Injury Segmentation** | Medical AI | SegNet-based injury and hematoma detection from medical images |
+| **CivicFix** | Civic Tech | App-based reporting and resolution system for local civic issues |
+| **SentinelMesh** | IoT Security | Sensor-driven monitoring and anomaly detection concept |
+
+---
+
+## Technical Arsenal
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" />
+
+<br><br>
+
+### AI / Software / Design
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flutter,figa,git,github,vscode&theme=dark" />
+
+<br><br>
+
+### Hardware / Systems
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
+
+</div>
+
+---
+
+## Engineering Stack
+
+```txt
+AI / ML              Python · PyTorch · TensorFlow · OpenCV · Segmentation Models
+Embedded Systems     Arduino · Sensors · Actuators · IoT Prototyping
+Software             C · C++ · JavaScript · Flutter · Git · GitHub
+Design               Figma · UI/UX Thinking · Product Flows
+Research Areas       Automotive HMI · Edge AI · Medical Imaging · Circular Economy Tech
+```
+
+---
+
+## Operating Principles
+
+```cpp
+class ShauryaMalhotra {
+public:
+    string mindset = "Build systems that are useful, sharp, and real.";
+    string standard = "Prototype fast, engineer seriously, improve relentlessly.";
+    string ambition = "Automotive intelligence and applied AI at world-class level.";
+
+    void work() {
+        learn();
+        build();
+        test();
+        document();
+        ship();
+        repeat();
+    }
+};
+```
+
+---
+
+## GitHub Telemetry
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shauryamalhotra957-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shauryamalhotra957-wq&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&ring_color=38bdf8" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryamalhotra957-wq&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryamalhotra957-wq&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" />
+
+</div>
+
+---
+
+## Contribution Map
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+## Beyond Code
+
+<table>
+<tr>
+<td width="50%">
+
+### Leadership
+
+Team Leader in the **iGV department at AIESEC**, working on international team coordination, communication, and professional growth.
+
+</td>
+<td width="50%">
+
+### Sports
+
+Former district-level table tennis player. Competitive mindset, fast reflexes, and always ready for a comeback rally.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current North Star
+
+<div align="center">
+
+### Build AI systems that can survive outside the notebook.
+
+Not just models.  
+Not just dashboards.  
+Not just prototypes.  
+
+**Real systems. Real constraints. Real engineering.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0ea5e9,100:020617&height=130&section=footer" width="100%" />
+
 </div>
