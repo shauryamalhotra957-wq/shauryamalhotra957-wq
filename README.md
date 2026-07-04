@@ -5,7 +5,7 @@
 <a href="https://github.com/shauryamalhotra957-wq">
   <img src="https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" />
 </a>
-<a href="https://www.linkedin.com/in/shaurya-malhotra-048555367/?skipRedirect=true">
+<a href="https://www.linkedin.com/in/shaurya-malhotra-048555367/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:shauryamalhotra957@gmail.com">
@@ -143,20 +143,6 @@ Creating IoT and sensor-based systems that sense the environment, process data, 
 
 ---
 
-## Projects I Am Building Toward
-
-| Project | Domain | Engineering Focus |
-|---|---|---|
-| **Aero-X** | Automotive AI | Neural active aerodynamics using distributed sensing and adaptive control |
-| **VerifiNews** | AI + RAG | News verification system using retrieval, credibility scoring, and source analysis |
-| **Waste Tinder** | Circular Economy | Resource redistribution platform for waste reuse and sustainability |
-| **EcoConnect** | Sustainability Tech | Connecting people, materials, and environmental action through software |
-| **Skull Injury Segmentation** | Medical AI | SegNet-based injury and hematoma detection from medical images |
-| **CivicFix** | Civic Tech | App-based reporting and resolution system for local civic issues |
-| **SentinelMesh** | IoT Security | Sensor-driven monitoring and anomaly detection concept |
-
----
-
 ## Technical Arsenal
 
 <div align="center">
@@ -169,7 +155,7 @@ Creating IoT and sensor-based systems that sense the environment, process data, 
 
 ### AI / Software / Design
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flutter,figa,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flutter,figma,git,github,vscode&theme=dark" />
 
 <br><br>
 
@@ -215,34 +201,11 @@ public:
 
 ---
 
-## GitHub Telemetry
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shauryamalhotra957-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shauryamalhotra957-wq&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&ring_color=38bdf8" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryamalhotra957-wq&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryamalhotra957-wq&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" />
-
-</div>
-
----
-
-## Contribution Map
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+Building public projects across AI, embedded systems, frontend prototypes, computer vision, and product engineering.
 
 </div>
 
