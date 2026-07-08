@@ -153,9 +153,9 @@ Creating IoT and sensor-based systems that sense the environment, process data, 
 
 <br><br>
 
-### AI / Software / Design
+### AI / Software
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flutter,figma,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flutter,git,github,vscode&theme=dark" />
 
 <br><br>
 
@@ -173,7 +173,6 @@ Creating IoT and sensor-based systems that sense the environment, process data, 
 AI / ML              Python · PyTorch · TensorFlow · OpenCV · Segmentation Models
 Embedded Systems     Arduino · Sensors · Actuators · IoT Prototyping
 Software             C · C++ · JavaScript · Flutter · Git · GitHub
-Design               Figma · UI/UX Thinking · Product Flows
 Research Areas       Automotive HMI · Edge AI · Medical Imaging · Circular Economy Tech
 ```
 
