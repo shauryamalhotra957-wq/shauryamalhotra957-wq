@@ -38,6 +38,8 @@ mission: Build intelligent systems that move from prototype to real-world engine
 
 I am a Computer Engineering student building at the intersection of **AI, hardware, software systems, and high-performance automotive engineering**.
 
+**Profile repository description:** Applied AI, embedded systems, automotive intelligence, computer vision, and product engineering projects by Shaurya Malhotra.
+
 My work is focused on one core idea:
 
 > Engineering should not just look impressive.  
