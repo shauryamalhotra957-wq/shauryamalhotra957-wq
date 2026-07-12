@@ -47,6 +47,18 @@ The common thread across my projects is simple: **make intelligent systems inspe
 
 ---
 
+## Additional Engineering Repositories
+
+| Project | Focus |
+| --- | --- |
+| [Aegis Earth](https://github.com/shauryamalhotra957-wq/aegis-earth) | Public-good disaster resilience command center with risk scoring, resource optimization, and a pitch deck. |
+| [EcoConnect Vision](https://github.com/shauryamalhotra957-wq/EcoConnect-Vision) | Computer vision waste classifier using OpenCV motion isolation and a MobileNetV2 Keras model. |
+| [Obstacle Avoiding Car](https://github.com/shauryamalhotra957-wq/Obstacle-Avoiding-Car) | Arduino robot car with ultrasonic sensing, median filtering, servo scanning, and turn verification. |
+| [AutoFlora](https://github.com/shauryamalhotra957-wq/AutoFlora-An-IoT-Framework-for-Urban-Roadside-Plantation) | Smart roadside irrigation controller with soil, tank, flow, and weather-aware pump logic. |
+| [Bank Customer Churn Prediction](https://github.com/shauryamalhotra957-wq/bank-customer-churn-prediction) | ML pipeline for feature engineering, model comparison, churn metrics, and saved predictions. |
+
+---
+
 ## Build Tracks
 
 <table>
