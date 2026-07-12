@@ -1,82 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:38bdf8&height=260&section=header&text=Shaurya%20Malhotra&fontSize=72&fontAlignY=34&animation=twinkling&fontColor=ffffff&desc=Applied%20AI%20%7C%20Embedded%20Systems%20%7C%20Automotive%20Intelligence&descAlignY=55&descAlign=50" width="100%" />
+# Shaurya Malhotra
+
+### Applied AI - Embedded Systems - Automotive Intelligence
+
+I build practical AI and software systems that move beyond notebooks: tested apps, command centers, verification tools, simulation engines, and hardware-aware prototypes.
 
 <a href="https://github.com/shauryamalhotra957-wq">
-  <img src="https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" alt="Profile views" />
 </a>
 <a href="https://www.linkedin.com/in/shaurya-malhotra-048555367/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shauryamalhotra957@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Computer+Engineering+%40+Thapar+Institute;Applied+AI+Researcher+in+the+Making;Building+Neuro-Adaptive+HMI+Systems;Embedded+AI+%2B+Automotive+Engineering;Future+Bugatti+Engineer" />
 
 </div>
 
 ---
 
-## `whoami`
+## Engineering Thesis
 
-```yaml
-name: Shaurya Malhotra
-role: Computer Engineering Undergraduate
-institution: Thapar Institute of Engineering and Technology
-focus:
-  - Applied Artificial Intelligence
-  - Embedded Systems and IoT
-  - Automotive Intelligence
-  - Neuro-Adaptive Human-Machine Interfaces
-  - Medical Image Segmentation
-  - Circular Economy Technology
-mission: Build intelligent systems that move from prototype to real-world engineering impact.
+```text
+Sense real-world signals -> reason with transparent logic -> ship usable interfaces -> test the system.
 ```
 
-I am a Computer Engineering student building at the intersection of **AI, hardware, software systems, and high-performance automotive engineering**.
+I am a Computer Engineering undergraduate at Thapar Institute of Engineering and Technology focused on applied AI, embedded intelligence, automotive HMI, computer vision, and product-grade software systems.
 
-**Profile repository description:** Applied AI, embedded systems, automotive intelligence, computer vision, and product engineering projects by Shaurya Malhotra.
-
-My work is focused on one core idea:
-
-> Engineering should not just look impressive.  
-> It should sense, reason, adapt, and solve a real problem.
-
-I am currently exploring **AI-driven automotive interfaces, embedded intelligence, medical imaging models, IoT systems, and sustainability-focused platforms** with a long-term goal of contributing to elite automotive engineering environments like **Bugatti**.
+The common thread across my projects is simple: **make intelligent systems inspectable, useful, and resilient enough to demo under real constraints.**
 
 ---
 
-## Core Engineering Identity
+## Featured Systems
+
+| Project | System Type | What It Shows | Proof |
+| --- | --- | --- | --- |
+| [Aegis Atlas](https://github.com/shauryamalhotra957-wq/aegis-atlas) | Disaster response simulator | Offline-first risk modeling, equity-aware resource planning, exportable incident briefs. | [Live demo](https://shauryamalhotra957-wq.github.io/aegis-atlas/) - CI - Pages deploy - visual QA |
+| [Terra Sentinel](https://github.com/shauryamalhotra957-wq/terra-sentinel) | Humanitarian command center | Lifeline status, district risk, public warning drafts, resource allocation, coverage metrics. | CI - coverage - security audit - Pages deploy - desktop/mobile QA |
+| [HELIX Command](https://github.com/shauryamalhotra957-wq/helix-command) | Digital twin simulator | 3D city operations, incident planning, policy comparison, recovery forecasting. | React - TypeScript - Three.js - Vitest |
+| [JARVIS](https://github.com/shauryamalhotra957-wq/jarvis) | Futuristic assistant UI | Three.js Earth, satellite targeting, command parsing, local assistant core, responsive visuals. | Tests - build validation - verified screenshots |
+| [GPT From Scratch Pro](https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro) | ML engineering project | Decoder-only Transformer, tokenizers, training loop, checkpoints, CLI, evaluation. | Pytest - Ruff - GitHub Actions |
+| [NewsCred RAG](https://github.com/shauryamalhotra957-wq/newscred-rag) | Verification platform | Source scoring, claim extraction, local evidence retrieval, explainable verdicts. | Node tests - threat model - RAG docs |
+| [AI Lecture Note Taker](https://github.com/shauryamalhotra957-wq/ai-lecture-note-taker) | FastAPI study tool | Transcript analysis, clean notes, concepts, quizzes, study guides, Markdown exports. | Pytest CI on Python 3.11 and 3.12 |
+| [AI Highlight Reel Maker](https://github.com/shauryamalhotra957-wq/ai-highlight-reel-maker) | Media automation tool | FFmpeg workflow, highlight scoring, captions, titles, edit decision lists. | Pytest CI on Python 3.11 and 3.12 |
+
+---
+
+## Build Tracks
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### Applied AI
+### AI Systems
 
-I build models and systems around:
-
-- Medical image segmentation
-- Computer vision pipelines
-- RAG-based verification systems
-- Edge AI concepts
-- Intelligent decision engines
+- RAG and verification flows
+- Computer vision prototypes
+- Local deterministic AI engines
+- Model training and evaluation tooling
 
 </td>
-<td width="50%">
+<td width="33%">
+
+### Command Interfaces
+
+- Disaster response dashboards
+- Digital twins and simulations
+- Operator cockpit design
+- Exportable decision briefs
+
+</td>
+<td width="33%">
 
 ### Embedded + Automotive
 
-I work with hardware and control systems involving:
-
-- Arduino and SBC-based systems
 - Sensor-driven automation
-- IoT monitoring
 - Human-machine interaction
-- Automotive intelligence concepts
+- Edge AI concepts
+- Automotive intelligence research
 
 </td>
 </tr>
@@ -84,189 +86,61 @@ I work with hardware and control systems involving:
 
 ---
 
-## Current Build Direction
+## Technical Stack
 
-```mermaid
-flowchart LR
-    A[Raw Real-World Signal] --> B[Sensor / Data Capture]
-    B --> C[AI Processing Layer]
-    C --> D[Decision Intelligence]
-    D --> E[Human-Centered Interface]
-    E --> F[Real-World Action]
-
-    style A fill:#020617,stroke:#38bdf8,color:#ffffff
-    style B fill:#020617,stroke:#38bdf8,color:#ffffff
-    style C fill:#0f172a,stroke:#38bdf8,color:#ffffff
-    style D fill:#0f172a,stroke:#38bdf8,color:#ffffff
-    style E fill:#020617,stroke:#38bdf8,color:#ffffff
-    style F fill:#020617,stroke:#38bdf8,color:#ffffff
-```
-
-My strongest interest is in building systems where **software intelligence controls or improves physical-world behavior**.
+| Area | Tools |
+| --- | --- |
+| Languages | Python, C, C++, JavaScript, TypeScript, Dart |
+| AI / ML | PyTorch, TensorFlow, OpenCV, RAG pipelines, local inference logic |
+| Frontend | React, Vite, Three.js, responsive UI systems |
+| Backend | FastAPI, Node.js, local APIs, secure upload flows |
+| Testing | Pytest, Vitest, Node test runner, Ruff, oxlint, Playwright visual QA |
+| Hardware | Arduino, sensors, actuators, IoT prototyping, embedded concepts |
 
 ---
 
-## Featured Engineering Tracks
-
-<table>
-<tr>
-<td width="33%">
-
-### Neuro-Adaptive HMI
-
-Researching how AI can understand driver cognitive load and adapt vehicle interfaces in real time.
-
-**Keywords:**  
-`HMI` `Cognitive Load` `Automotive AI` `Driver Assistance`
-
-</td>
-<td width="33%">
-
-### Medical AI
-
-Building segmentation-based models for detecting skull injuries, hematomas, and medical regions from scan data.
-
-**Keywords:**  
-`SegNet` `3D Models` `CT/MRI` `Computer Vision`
-
-</td>
-<td width="33%">
-
-### Embedded Intelligence
-
-Creating IoT and sensor-based systems that sense the environment, process data, and trigger useful action.
-
-**Keywords:**  
-`Arduino` `Sensors` `SBC` `Edge AI`
-
-</td>
-</tr>
-</table>
-
----
-
-## Project Quality Board
-
-These are shipped, test-backed repositories with CI or deployment checks wired in:
-
-| Project | What it proves | Quality signal |
-| --- | --- | --- |
-| [Aegis Atlas](https://github.com/shauryamalhotra957-wq/aegis-atlas) | Offline-first disaster response command simulator with deterministic planning logic. | CI, Vitest domain tests, GitHub Pages deployment, visual QA. |
-| [Terra Sentinel](https://github.com/shauryamalhotra957-wq/terra-sentinel) | Humanitarian risk command center for lifelines, resources, warnings, and exports. | CI, coverage, security audit, Pages deployment, desktop/mobile visual QA. |
-| [GPT From Scratch Pro](https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro) | Decoder-only Transformer, tokenizers, training, evaluation, checkpointing, and CLI. | Pytest, Ruff, GitHub Actions quality workflow. |
-| [AI Lecture Note Taker](https://github.com/shauryamalhotra957-wq/ai-lecture-note-taker) | FastAPI app that turns transcripts or recordings into notes, quizzes, and study guides. | Pytest CI on Python 3.11 and 3.12. |
-| [AI Highlight Reel Maker](https://github.com/shauryamalhotra957-wq/ai-highlight-reel-maker) | FastAPI and FFmpeg prototype for clip planning, captions, titles, and EDL exports. | Pytest CI on Python 3.11 and 3.12. |
-
----
-
-## Technical Arsenal
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" />
-
-<br><br>
-
-### AI / Software
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flutter,git,github,vscode&theme=dark" />
-
-<br><br>
-
-### Hardware / Systems
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&theme=dark" />
-
-</div>
-
----
-
-## Engineering Stack
-
-```txt
-AI / ML              Python - PyTorch - TensorFlow - OpenCV - Segmentation Models
-Embedded Systems     Arduino - Sensors - Actuators - IoT Prototyping
-Software             C - C++ - JavaScript - Flutter - Git - GitHub
-Research Areas       Automotive HMI - Edge AI - Medical Imaging - Circular Economy Tech
-```
-
----
-
-## Operating Principles
+## Engineering Standards
 
 ```cpp
-class ShauryaMalhotra {
+class EngineeringStandard {
 public:
-    string mindset = "Build systems that are useful, sharp, and real.";
-    string standard = "Prototype fast, engineer seriously, improve relentlessly.";
-    string ambition = "Automotive intelligence and applied AI at world-class level.";
-
-    void work() {
-        learn();
-        build();
-        test();
-        document();
-        ship();
-        repeat();
-    }
+    string design = "Clear interface, clear hierarchy, clear user outcome.";
+    string build = "Small enough to inspect, strong enough to demo.";
+    string quality = "Tests, docs, security notes, and repeatable verification.";
+    string ambition = "AI systems that survive outside the notebook.";
 };
 ```
 
+What I try to prove in every serious repo:
+
+- The project has a real user flow, not just code fragments.
+- The logic is explainable and test-covered.
+- The README tells a judge, recruiter, or teammate what matters fast.
+- The design feels intentional on desktop and mobile.
+- The next engineering step is documented.
+
 ---
 
-## GitHub Activity
+## Current Direction
+
+```mermaid
+flowchart LR
+    A["Raw signal"] --> B["Model or rules engine"]
+    B --> C["Decision intelligence"]
+    C --> D["Human-facing interface"]
+    D --> E["Tested, documented system"]
+```
+
+I am especially interested in neuro-adaptive vehicle interfaces, applied AI for physical-world systems, crisis-response simulations, verification tooling, and portfolio-grade products that can become production-grade with the right data, governance, and deployment path.
+
+---
+
+## Contact
 
 <div align="center">
 
-Building public projects across AI, embedded systems, frontend prototypes, computer vision, and product engineering.
+**Open to:** applied AI projects, embedded systems work, automotive HMI research, product engineering collaborations, and serious internship opportunities.
 
-</div>
-
----
-
-## Beyond Code
-
-<table>
-<tr>
-<td width="50%">
-
-### Leadership
-
-Team Leader in the **iGV department at AIESEC**, working on international team coordination, communication, and professional growth.
-
-</td>
-<td width="50%">
-
-### Sports
-
-Former district-level table tennis player. Competitive mindset, fast reflexes, and always ready for a comeback rally.
-
-</td>
-</tr>
-</table>
-
----
-
-## Current North Star
-
-<div align="center">
-
-### Build AI systems that can survive outside the notebook.
-
-Not just models.  
-Not just dashboards.  
-Not just prototypes.  
-
-**Real systems. Real constraints. Real engineering.**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0ea5e9,100:020617&height=130&section=footer" width="100%" />
+[LinkedIn](https://www.linkedin.com/in/shaurya-malhotra-048555367/) - [Email](mailto:shauryamalhotra957@gmail.com) - [GitHub](https://github.com/shauryamalhotra957-wq)
 
 </div>
