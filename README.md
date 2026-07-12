@@ -145,6 +145,20 @@ Creating IoT and sensor-based systems that sense the environment, process data, 
 
 ---
 
+## Project Quality Board
+
+These are shipped, test-backed repositories with CI or deployment checks wired in:
+
+| Project | What it proves | Quality signal |
+| --- | --- | --- |
+| [Aegis Atlas](https://github.com/shauryamalhotra957-wq/aegis-atlas) | Offline-first disaster response command simulator with deterministic planning logic. | CI, Vitest domain tests, GitHub Pages deployment, visual QA. |
+| [Terra Sentinel](https://github.com/shauryamalhotra957-wq/terra-sentinel) | Humanitarian risk command center for lifelines, resources, warnings, and exports. | CI, coverage, security audit, Pages deployment, desktop/mobile visual QA. |
+| [GPT From Scratch Pro](https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro) | Decoder-only Transformer, tokenizers, training, evaluation, checkpointing, and CLI. | Pytest, Ruff, GitHub Actions quality workflow. |
+| [AI Lecture Note Taker](https://github.com/shauryamalhotra957-wq/ai-lecture-note-taker) | FastAPI app that turns transcripts or recordings into notes, quizzes, and study guides. | Pytest CI on Python 3.11 and 3.12. |
+| [AI Highlight Reel Maker](https://github.com/shauryamalhotra957-wq/ai-highlight-reel-maker) | FastAPI and FFmpeg prototype for clip planning, captions, titles, and EDL exports. | Pytest CI on Python 3.11 and 3.12. |
+
+---
+
 ## Technical Arsenal
 
 <div align="center">
@@ -172,10 +186,10 @@ Creating IoT and sensor-based systems that sense the environment, process data, 
 ## Engineering Stack
 
 ```txt
-AI / ML              Python · PyTorch · TensorFlow · OpenCV · Segmentation Models
-Embedded Systems     Arduino · Sensors · Actuators · IoT Prototyping
-Software             C · C++ · JavaScript · Flutter · Git · GitHub
-Research Areas       Automotive HMI · Edge AI · Medical Imaging · Circular Economy Tech
+AI / ML              Python - PyTorch - TensorFlow - OpenCV - Segmentation Models
+Embedded Systems     Arduino - Sensors - Actuators - IoT Prototyping
+Software             C - C++ - JavaScript - Flutter - Git - GitHub
+Research Areas       Automotive HMI - Edge AI - Medical Imaging - Circular Economy Tech
 ```
 
 ---
