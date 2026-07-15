@@ -1,3 +1,66 @@
+<p align="center">
+  <img src="./assets/profile-command-center.svg" width="100%" alt="Shaurya Malhotra engineering command center" />
+</p>
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/shauryamalhotra957-wq?style=for-the-badge&logo=github&label=NETWORK&color=0f766e)](https://github.com/shauryamalhotra957-wq?tab=followers)
+[![Project portfolio](https://img.shields.io/badge/PROJECT_PORTFOLIO-OPEN-0891b2?style=for-the-badge&logo=github)](https://github.com/shauryamalhotra957-wq?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=PROFILE+SCANS&color=10b981&style=for-the-badge)](https://github.com/shauryamalhotra957-wq)
+
+</div>
+
+## Live Engineering Telemetry
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shauryamalhotra957-wq&theme=github_dark" alt="GitHub contribution profile details" />
+</p>
+
+<table>
+<tr>
+<td width="50%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shauryamalhotra957-wq&theme=github_dark" alt="GitHub account statistics" />
+</td>
+<td width="50%">
+  <img width="100%" src="https://streak-stats.demolab.com?user=shauryamalhotra957-wq&theme=github-dark-blue&hide_border=true&background=0D1117&ring=35F2A6&fire=42E8FF&currStreakLabel=35F2A6" alt="GitHub contribution streak" />
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shauryamalhotra957-wq&theme=github_dark" alt="Repositories per language" />
+</td>
+<td width="50%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shauryamalhotra957-wq&theme=github_dark" alt="Most used commit languages" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shauryamalhotra957-wq&bg_color=0d1117&color=7ee7f2&line=35f2a6&point=f2fbff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</p>
+
+### Technology Matrix
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,js,ts,react,vite,threejs,nodejs,cpp,c,arduino,dart,git,github,docker,linux,vscode&perline=10&theme=dark" alt="Technology icons" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryamalhotra957-wq&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub achievement trophies" />
+</p>
+
+### Contribution Flightpath
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution path" src="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> Live cards are generated from public GitHub activity. The contribution flightpath appears after the included workflow runs once on the default branch.
+
+---
+
 <div align="center">
 
 # Shaurya Malhotra
