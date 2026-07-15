@@ -45,43 +45,6 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,js,ts,react,vite,threejs,nodejs,cpp,c,arduino,dart,git,github,docker,linux,vscode&perline=10&theme=dark" alt="Technology icons" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shauryamalhotra957-wq&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub achievement trophies" />
-</p>
-
-### Contribution Flightpath
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Animated contribution path" src="https://raw.githubusercontent.com/shauryamalhotra957-wq/shauryamalhotra957-wq/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> Live cards are generated from public GitHub activity. The contribution flightpath appears after the included workflow runs once on the default branch.
-
----
-
-<div align="center">
-#hi niggers
-
-# Shaurya Malhotra
-
-### Applied AI - Embedded Systems - Automotive Intelligence
-
-I build practical AI and software systems that move beyond notebooks: tested apps, command centers, verification tools, simulation engines, and hardware-aware prototypes.
-
-<a href="https://github.com/shauryamalhotra957-wq">
-  <img src="https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" alt="Profile views" />
-</a>
-<a href="https://www.linkedin.com/in/shaurya-malhotra-048555367/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:shauryamalhotra957@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
 ---
 
 ## Engineering Thesis
