@@ -6,7 +6,7 @@
 
 [![Live portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-OPEN-0891b2?style=for-the-badge&logo=vercel)](https://shaurya-malhotra-site.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-malhotra-048555367/)
-[shauryamalhotra957@gmail.com](mailto:shauryamalhotra957@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryamalhotra957@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=PROFILE+SCANS&color=10b981&style=for-the-badge)](https://github.com/shauryamalhotra957-wq)
 
 </div>
