@@ -5,7 +5,9 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/shauryamalhotra957-wq?style=for-the-badge&logo=github&label=NETWORK&color=0f766e)](https://github.com/shauryamalhotra957-wq?tab=followers)
-[![Project portfolio](https://img.shields.io/badge/PROJECT_PORTFOLIO-OPEN-0891b2?style=for-the-badge&logo=github)](https://github.com/shauryamalhotra957-wq?tab=repositories)
+[![Live portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-OPEN-0891b2?style=for-the-badge&logo=vercel)](https://shaurya-malhotra-site.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-malhotra-048555367/)
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryamalhotra957@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=PROFILE+SCANS&color=10b981&style=for-the-badge)](https://github.com/shauryamalhotra957-wq)
 
 </div>
@@ -180,6 +182,6 @@ I am especially interested in neuro-adaptive vehicle interfaces, applied AI for 
 
 **Open to:** applied AI projects, embedded systems work, automotive HMI research, product engineering collaborations, and serious internship opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/shaurya-malhotra-048555367/) - [Email](mailto:shauryamalhotra957@gmail.com) - [GitHub](https://github.com/shauryamalhotra957-wq)
+[Portfolio](https://shaurya-malhotra-site.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/shaurya-malhotra-048555367/) - [Email](mailto:shauryamalhotra957@gmail.com) - [GitHub](https://github.com/shauryamalhotra957-wq)
 
 </div>
