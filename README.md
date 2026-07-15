@@ -177,6 +177,14 @@ I am especially interested in neuro-adaptive vehicle interfaces, applied AI for 
 
 ---
 
+## Product Experience Standard
+
+Every interface in this portfolio follows a shared experience baseline: decisive visual hierarchy, calm bento-style composition, one purposeful accent color, keyboard-visible focus, touch-friendly controls, responsive layouts, and motion that explains state instead of decorating it. Each product then adapts that baseline to its own domain rather than wearing a generic template.
+
+The visual research draws on contemporary product work from [Dribbble's UI/UX collection](https://dribbble.com/tags/ui-ux-design), while the implementations, information architecture, interaction states, and accessibility decisions are original to these projects.
+
+---
+
 ## Contact
 
 <div align="center">
