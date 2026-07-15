@@ -8,6 +8,7 @@
 [![Live portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-OPEN-0891b2?style=for-the-badge&logo=vercel)](https://shaurya-malhotra-site.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-malhotra-048555367/)
 [![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shauryamalhotra957@gmail.com)
+[![Official GitHub achievements](https://img.shields.io/badge/OFFICIAL_ACHIEVEMENTS-ENABLED-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shauryamalhotra957-wq)
 [![Profile views](https://komarev.com/ghpvc/?username=shauryamalhotra957-wq&label=PROFILE+SCANS&color=10b981&style=for-the-badge)](https://github.com/shauryamalhotra957-wq)
 
 </div>
