@@ -159,6 +159,8 @@ What I try to prove in every serious repo:
 - The design feels intentional on desktop and mobile.
 - The next engineering step is documented.
 
+Profile integrity is checked in CI with `node scripts/check-profile.mjs`. The check catches missing local targets, repository-escaping paths, insecure remote URLs, and images without meaningful alternative text.
+
 ---
 
 ## Current Direction
