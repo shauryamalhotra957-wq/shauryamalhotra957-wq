@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
   <title id="title">Shaurya Malhotra engineering command center</title>
-  <desc id="description">A dark cyan and emerald command interface presenting applied AI, embedded systems, and automotive intelligence.</desc>
+  <desc id="description">A dark cyan and emerald command interface presenting applied AI, full-stack systems, and embedded intelligence.</desc>
   <defs>
     <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
       <stop stop-color="#05080f"/>
@@ -40,7 +40,7 @@
   <g font-family="Segoe UI, Inter, Arial, sans-serif">
     <text x="260" y="63" fill="#73f9e2" font-size="12" letter-spacing="5">ENGINEERING NODE // ONLINE</text>
     <text x="258" y="126" fill="#f2fbff" font-size="48" font-weight="700" letter-spacing="2">SHAURYA MALHOTRA</text>
-    <text x="260" y="161" fill="#8aa8b5" font-size="18" letter-spacing="3">APPLIED AI · EMBEDDED SYSTEMS · AUTOMOTIVE INTELLIGENCE</text>
+    <text x="260" y="161" fill="#8aa8b5" font-size="17" letter-spacing="2.4">APPLIED AI · FULL-STACK SYSTEMS · EMBEDDED INTELLIGENCE</text>
     <rect x="260" y="194" width="166" height="34" rx="17" fill="#42e8ff" fill-opacity="0.08" stroke="#42e8ff" stroke-opacity="0.45"/>
     <text x="281" y="216" fill="#75edff" font-size="12" font-weight="600" letter-spacing="2">BUILD // VERIFY</text>
     <rect x="440" y="194" width="174" height="34" rx="17" fill="#35f2a6" fill-opacity="0.08" stroke="#35f2a6" stroke-opacity="0.45"/>
