@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="172" viewBox="0 0 1200 172" role="img" aria-labelledby="title description">
+  <title id="title">Shaurya's engineering signal path</title>
+  <desc id="description">An animated path connecting sensing, modeling, decision-making, interfaces, and verification. The animation loops indefinitely.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop stop-color="#071015"/>
+      <stop offset="0.5" stop-color="#08161b"/>
+      <stop offset="1" stop-color="#07110f"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#42e8ff"/>
+      <stop offset="1" stop-color="#35f2a6"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .signal-line { animation: flow 10s linear infinite; }
+      .tracer { animation: travel 10s ease-in-out infinite; }
+      .node { animation: node-pulse 10s ease-in-out infinite; }
+      .n2 { animation-delay: -8s; }
+      .n3 { animation-delay: -6s; }
+      .n4 { animation-delay: -4s; }
+      .n5 { animation-delay: -2s; }
+      @keyframes flow { to { stroke-dashoffset: -100; } }
+      @keyframes travel { 0%, 5% { transform: translateX(0); opacity: 0; } 12% { opacity: 1; } 88% { opacity: 1; } 95%, 100% { transform: translateX(960px); opacity: 0; } }
+      @keyframes node-pulse { 0%, 8%, 100% { opacity: .35; } 12%, 22% { opacity: 1; } 28% { opacity: .35; } }
+      @media (prefers-reduced-motion: reduce) {
+        .signal-line, .tracer, .node { animation: none; }
+        .tracer { display: none; }
+        .node { opacity: .7; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="172" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="170" rx="17" fill="none" stroke="#47e7de" stroke-opacity="0.22"/>
+  <text x="40" y="35" fill="#65838e" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="10" letter-spacing="3">ENGINEERING SIGNAL PATH</text>
+
+  <path d="M118 91H1082" stroke="#183e45" stroke-width="3"/>
+  <path class="signal-line" d="M118 91H1082" stroke="url(#line)" stroke-width="2" stroke-opacity="0.65" stroke-dasharray="7 13"/>
+  <circle class="tracer" cx="118" cy="91" r="6" fill="#d9fff7" filter="url(#glow)"/>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(118 91)">
+      <circle class="node n1" r="18" fill="#42e8ff" fill-opacity="0.14" stroke="#42e8ff"/>
+      <circle r="5" fill="#80f3ff"/>
+      <text y="48" fill="#d9f7ff" font-size="12" font-weight="700" letter-spacing="2">SENSE</text>
+    </g>
+    <g transform="translate(359 91)">
+      <circle class="node n2" r="18" fill="#42e8ff" fill-opacity="0.14" stroke="#42e8ff"/>
+      <circle r="5" fill="#80f3ff"/>
+      <text y="48" fill="#d9f7ff" font-size="12" font-weight="700" letter-spacing="2">MODEL</text>
+    </g>
+    <g transform="translate(600 91)">
+      <circle class="node n3" r="18" fill="#42e8ff" fill-opacity="0.12" stroke="#49edd5"/>
+      <circle r="5" fill="#79f3d7"/>
+      <text y="48" fill="#e1fff8" font-size="12" font-weight="700" letter-spacing="2">DECIDE</text>
+    </g>
+    <g transform="translate(841 91)">
+      <circle class="node n4" r="18" fill="#35f2a6" fill-opacity="0.13" stroke="#35f2a6"/>
+      <circle r="5" fill="#71f9bd"/>
+      <text y="48" fill="#e1fff8" font-size="12" font-weight="700" letter-spacing="2">INTERFACE</text>
+    </g>
+    <g transform="translate(1082 91)">
+      <circle class="node n5" r="18" fill="#35f2a6" fill-opacity="0.13" stroke="#35f2a6"/>
+      <path d="M-6 0l4 5 9-11" fill="none" stroke="#baffdf" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text y="48" fill="#e1fff8" font-size="12" font-weight="700" letter-spacing="2">VERIFY</text>
+    </g>
+  </g>
+</svg>

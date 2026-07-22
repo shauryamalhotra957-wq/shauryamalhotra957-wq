@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">Shaurya Malhotra engineering command center</title>
-  <desc id="description">A dark cyan and emerald command interface presenting applied AI, embedded systems, and automotive intelligence.</desc>
+  <desc id="description">An animated command interface for applied AI, resilient systems, and embedded intelligence. All animation is self-contained and loops indefinitely.</desc>
   <defs>
     <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
-      <stop stop-color="#05080f"/>
+      <stop stop-color="#04070d"/>
       <stop offset="0.5" stop-color="#07131a"/>
       <stop offset="1" stop-color="#07110f"/>
     </linearGradient>
@@ -11,47 +11,105 @@
       <stop stop-color="#42e8ff"/>
       <stop offset="1" stop-color="#35f2a6"/>
     </linearGradient>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop stop-color="#42e8ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#42e8ff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#35f2a6" stop-opacity="0"/>
+    </linearGradient>
     <radialGradient id="core">
-      <stop stop-color="#dffff7"/>
-      <stop offset="0.25" stop-color="#57f6cf"/>
-      <stop offset="0.62" stop-color="#1ba9b2" stop-opacity="0.65"/>
+      <stop stop-color="#eafffb"/>
+      <stop offset="0.2" stop-color="#79ffe2"/>
+      <stop offset="0.55" stop-color="#18a7b5" stop-opacity="0.75"/>
       <stop offset="1" stop-color="#07131a" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#49dbe5" stroke-opacity="0.075" stroke-width="1"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#49dbe5" stroke-opacity="0.075"/>
     </pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screen">
+      <rect x="1" y="1" width="1198" height="358" rx="24"/>
+    </clipPath>
+    <style>
+      .orbit-slow { transform-origin: 158px 180px; animation: orbit 22s linear infinite; }
+      .orbit-fast { transform-origin: 158px 180px; animation: reverse-orbit 12s linear infinite; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; }
+      .scanline { animation: scan 7s ease-in-out infinite; }
+      .dash { animation: dash 8s linear infinite; }
+      .blink { animation: blink 1.25s steps(1) infinite; }
+      @keyframes orbit { to { transform: rotate(360deg); } }
+      @keyframes reverse-orbit { to { transform: rotate(-360deg); } }
+      @keyframes pulse { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+      @keyframes scan { 0%, 8% { transform: translateY(-90px); opacity: 0; } 18% { opacity: .75; } 82% { opacity: .45; } 92%, 100% { transform: translateY(430px); opacity: 0; } }
+      @keyframes dash { to { stroke-dashoffset: -180; } }
+      @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) {
+        .orbit-slow, .orbit-fast, .pulse, .scanline, .dash, .blink { animation: none; }
+        .scanline { display: none; }
+      }
+    </style>
   </defs>
-  <rect width="1200" height="280" rx="22" fill="url(#background)"/>
-  <rect x="1" y="1" width="1198" height="278" rx="21" fill="none" stroke="#47e7de" stroke-opacity="0.35"/>
-  <rect width="1200" height="280" rx="22" fill="url(#grid)"/>
-  <path d="M30 72V30h42M1128 30h42v42M30 208v42h42M1128 250h42v-42" fill="none" stroke="url(#accent)" stroke-width="3"/>
-  <g transform="translate(132 140)" filter="url(#glow)">
-    <circle r="88" fill="none" stroke="#47e7de" stroke-opacity="0.18"/>
-    <circle r="71" fill="none" stroke="#42e8ff" stroke-width="2" stroke-dasharray="8 9"/>
-    <circle r="52" fill="none" stroke="#35f2a6" stroke-opacity="0.65" stroke-width="5" stroke-dasharray="42 11"/>
-    <circle r="40" fill="url(#core)"/>
-    <path d="M0-31 27-15 27 15 0 31-27 15-27-15Z" fill="#07131a" stroke="#b7fff0" stroke-width="2"/>
-    <circle r="13" fill="#b7fff0"/>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#47e7de" stroke-opacity="0.34" stroke-width="2"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+
+  <g clip-path="url(#screen)" aria-hidden="true">
+    <path class="dash" d="M0 315H86l18-18h230l20 20h216l18-18h162l24 24h446" fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-opacity="0.22" stroke-dasharray="5 10"/>
+    <rect class="scanline" x="28" y="-70" width="1144" height="90" fill="url(#scan)" opacity="0.6"/>
   </g>
+
+  <path d="M30 78V30h48M1122 30h48v48M30 282v48h48M1122 330h48v-48" fill="none" stroke="url(#accent)" stroke-width="3"/>
+
+  <g aria-hidden="true">
+    <circle cx="158" cy="180" r="102" fill="#061016" stroke="#47e7de" stroke-opacity="0.14"/>
+    <g class="orbit-slow">
+      <circle cx="158" cy="180" r="84" fill="none" stroke="#42e8ff" stroke-width="2" stroke-opacity="0.72" stroke-dasharray="10 13"/>
+      <circle cx="158" cy="96" r="4" fill="#b7fff0" filter="url(#softGlow)"/>
+    </g>
+    <g class="orbit-fast">
+      <circle cx="158" cy="180" r="63" fill="none" stroke="#35f2a6" stroke-width="4" stroke-opacity="0.65" stroke-dasharray="38 14"/>
+      <path d="M158 117l8 7-8 7-8-7z" fill="#35f2a6"/>
+    </g>
+    <circle class="pulse" cx="158" cy="180" r="47" fill="url(#core)" filter="url(#glow)"/>
+    <path d="M158 146l30 17v34l-30 17-30-17v-34z" fill="#07131a" stroke="#c9fff5" stroke-width="2"/>
+    <path d="M145 180l9 9 19-21" fill="none" stroke="#7fffe4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
   <g font-family="Segoe UI, Inter, Arial, sans-serif">
-    <text x="260" y="63" fill="#73f9e2" font-size="12" letter-spacing="5">ENGINEERING NODE // ONLINE</text>
-    <text x="258" y="126" fill="#f2fbff" font-size="48" font-weight="700" letter-spacing="2">SHAURYA MALHOTRA</text>
-    <text x="260" y="161" fill="#8aa8b5" font-size="18" letter-spacing="3">APPLIED AI · EMBEDDED SYSTEMS · AUTOMOTIVE INTELLIGENCE</text>
-    <rect x="260" y="194" width="166" height="34" rx="17" fill="#42e8ff" fill-opacity="0.08" stroke="#42e8ff" stroke-opacity="0.45"/>
-    <text x="281" y="216" fill="#75edff" font-size="12" font-weight="600" letter-spacing="2">BUILD // VERIFY</text>
-    <rect x="440" y="194" width="174" height="34" rx="17" fill="#35f2a6" fill-opacity="0.08" stroke="#35f2a6" stroke-opacity="0.45"/>
-    <text x="464" y="216" fill="#64f5bb" font-size="12" font-weight="600" letter-spacing="2">SHIP // ITERATE</text>
-    <text x="940" y="58" fill="#6d8792" font-size="11" letter-spacing="2">MISSION STATUS</text>
-    <text x="940" y="87" fill="#64f5bb" font-size="17" font-weight="700">SYSTEMS NOMINAL</text>
-    <text x="940" y="130" fill="#6d8792" font-size="11" letter-spacing="2">PRIMARY VECTOR</text>
-    <text x="940" y="158" fill="#75edff" font-size="16" font-weight="600">INTELLIGENCE → IMPACT</text>
-    <text x="940" y="201" fill="#6d8792" font-size="11" letter-spacing="2">OPERATING MODE</text>
-    <text x="940" y="229" fill="#f2fbff" font-size="16" font-weight="600">PROTOTYPE / PRODUCTION</text>
+    <text x="292" y="61" fill="#76f7e3" font-size="12" font-weight="600" letter-spacing="4">ENGINEERING NODE // ONLINE</text>
+    <circle class="pulse" cx="272" cy="57" r="5" fill="#35f2a6"/>
+
+    <text x="288" y="135" fill="#f3fbff" font-size="50" font-weight="750" letter-spacing="2">SHAURYA MALHOTRA</text>
+    <text x="292" y="174" fill="#8faebb" font-size="15" letter-spacing="2">APPLIED AI  /  RESILIENT SYSTEMS  /  EMBEDDED INTELLIGENCE</text>
+
+    <g transform="translate(292 213)">
+      <rect width="174" height="38" rx="19" fill="#42e8ff" fill-opacity="0.07" stroke="#42e8ff" stroke-opacity="0.42"/>
+      <text x="22" y="24" fill="#78eeff" font-size="12" font-weight="700" letter-spacing="2">BUILD → VERIFY</text>
+    </g>
+    <g transform="translate(482 213)">
+      <rect width="166" height="38" rx="19" fill="#35f2a6" fill-opacity="0.07" stroke="#35f2a6" stroke-opacity="0.42"/>
+      <text x="25" y="24" fill="#6cf5be" font-size="12" font-weight="700" letter-spacing="2">SHIP → LEARN</text>
+    </g>
+
+    <line x1="938" y1="53" x2="938" y2="264" stroke="#42e8ff" stroke-opacity="0.18"/>
+    <text x="974" y="66" fill="#698893" font-size="10" letter-spacing="2">PRIMARY VECTOR</text>
+    <text x="974" y="92" fill="#77edff" font-size="16" font-weight="700">INTELLIGENCE → IMPACT</text>
+
+    <text x="974" y="140" fill="#698893" font-size="10" letter-spacing="2">OPERATING MODE</text>
+    <text x="974" y="166" fill="#f0fbff" font-size="16" font-weight="700">PROTOTYPE / PRODUCTION</text>
+
+    <text x="974" y="214" fill="#698893" font-size="10" letter-spacing="2">SIGNAL STATUS</text>
+    <text x="974" y="240" fill="#6cf5be" font-size="16" font-weight="700">SYSTEMS NOMINAL</text>
+    <rect class="blink" x="1138" y="226" width="8" height="16" fill="#35f2a6"/>
+
+    <text x="292" y="296" fill="#52717d" font-size="10" letter-spacing="2">COMPUTER ENGINEERING // TIET // INDIA</text>
+    <text x="974" y="296" fill="#52717d" font-size="10" letter-spacing="2">LOOP // INDEFINITE</text>
   </g>
-  <path d="M660 208h228l22-22h232" fill="none" stroke="#35f2a6" stroke-opacity="0.28"/>
-  <circle cx="904" cy="192" r="4" fill="#35f2a6"/>
 </svg>
