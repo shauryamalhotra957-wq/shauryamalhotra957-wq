@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="title desc">
+  <title id="title">AutoFlora</title>
+  <desc id="desc">Autonomous roadside ecosystem care with sensing, telemetry, and failsafes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#071006"/><stop offset="1" stop-color="#071713"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#b5f36a"/><stop offset="1" stop-color="#39e2a2"/></linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#b7f77e" stroke-opacity=".04"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.flow{animation:flow 8s linear infinite}.leaf{transform-origin:475px 88px;animation:leaf 4s ease-in-out infinite}.pulse{animation:pulse 2.5s ease-in-out infinite}@keyframes flow{to{stroke-dashoffset:-80}}@keyframes leaf{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(4deg)}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.flow,.leaf,.pulse{animation:none}}</style>
+  </defs>
+  <rect width="560" height="210" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="558" height="208" rx="17" fill="none" stroke="#87ec80" stroke-opacity=".34"/><rect width="560" height="210" rx="18" fill="url(#grid)"/>
+  <path class="flow" d="M22 134H390l22-22h117" fill="none" stroke="url(#accent)" stroke-opacity=".34" stroke-dasharray="5 8"/>
+  <g font-family="Segoe UI,Inter,Arial,sans-serif">
+    <text x="24" y="28" fill="#b7f17f" font-size="9" font-weight="700" letter-spacing="2.4">06 // EMBEDDED ECOLOGY</text>
+    <text x="24" y="64" fill="#f7fff1" font-size="27" font-weight="750" letter-spacing="1.5">AUTOFLORA</text>
+    <text x="24" y="91" fill="#a3b69b" font-size="12.5">Autonomous care for roadside ecosystems.</text>
+    <text x="24" y="111" fill="#7d9276" font-size="11.5">Moisture · flow · tank sensing · weather failsafes</text>
+    <g transform="translate(24 145)"><rect width="68" height="24" rx="12" fill="#b5f36a" fill-opacity=".08" stroke="#b5f36a" stroke-opacity=".35"/><text x="12" y="16" fill="#cbf99a" font-size="9" font-weight="700">ARDUINO</text></g>
+    <g transform="translate(100 145)"><rect width="44" height="24" rx="12" fill="#b5f36a" fill-opacity=".08" stroke="#b5f36a" stroke-opacity=".35"/><text x="13" y="16" fill="#cbf99a" font-size="9" font-weight="700">C++</text></g>
+    <g transform="translate(152 145)"><rect width="44" height="24" rx="12" fill="#39e2a2" fill-opacity=".08" stroke="#39e2a2" stroke-opacity=".35"/><text x="13" y="16" fill="#79f0c3" font-size="9" font-weight="700">IOT</text></g>
+    <text x="24" y="193" fill="#58714f" font-size="9" letter-spacing="1.8">SENSOR NETWORK // FIELD SYSTEMS</text>
+  </g>
+  <g class="leaf" aria-hidden="true">
+    <path d="M476 121V75" fill="none" stroke="#b5f36a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M475 81c-22-3-34-15-32-34 22-1 35 10 32 34z" fill="#b5f36a" fill-opacity=".14" stroke="#b5f36a" stroke-width="1.5"/><path d="M478 94c20-4 31-15 28-32-20 0-31 11-28 32z" fill="#39e2a2" fill-opacity=".14" stroke="#39e2a2" stroke-width="1.5"/>
+    <path d="M452 55l23 26M498 69l-20 25" fill="none" stroke="#d9ffb3" stroke-opacity=".55"/>
+    <circle class="pulse" cx="476" cy="121" r="7" fill="#bff68a" filter="url(#glow)"/>
+    <path d="M445 130h62" stroke="url(#accent)" stroke-width="2" stroke-dasharray="4 5"/>
+  </g>
+</svg>

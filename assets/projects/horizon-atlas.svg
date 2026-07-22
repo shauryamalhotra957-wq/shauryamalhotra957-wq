@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="title desc">
+  <title id="title">Horizon Atlas</title>
+  <desc id="desc">Interactive planetary intelligence laboratory for comparing possible futures.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#050a14"/><stop offset="1" stop-color="#120b1c"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#53b7ff"/><stop offset="1" stop-color="#d87cff"/></linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#91c9ff" stroke-opacity=".04"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.flow{animation:flow 8s linear infinite}.planet{transform-origin:475px 88px;animation:planet 20s linear infinite}.pulse{animation:pulse 3s ease-in-out infinite}@keyframes flow{to{stroke-dashoffset:-80}}@keyframes planet{to{transform:rotate(360deg)}}@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.flow,.planet,.pulse{animation:none}}</style>
+  </defs>
+  <rect width="560" height="210" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="558" height="208" rx="17" fill="none" stroke="#6f9dff" stroke-opacity=".34"/><rect width="560" height="210" rx="18" fill="url(#grid)"/>
+  <path class="flow" d="M22 134H390l22-22h117" fill="none" stroke="url(#accent)" stroke-opacity=".34" stroke-dasharray="5 8"/>
+  <g font-family="Segoe UI,Inter,Arial,sans-serif">
+    <text x="24" y="28" fill="#8dcaff" font-size="9" font-weight="700" letter-spacing="2.4">03 // PLANETARY SYSTEMS</text>
+    <text x="24" y="64" fill="#f7f5ff" font-size="27" font-weight="750" letter-spacing="1.2">HORIZON ATLAS</text>
+    <text x="24" y="91" fill="#a4a7c2" font-size="12.5">Design and compare possible futures.</text>
+    <text x="24" y="111" fill="#7e819b" font-size="11.5">Energy · food · water · health · education</text>
+    <g transform="translate(24 145)"><rect width="60" height="24" rx="12" fill="#53b7ff" fill-opacity=".08" stroke="#53b7ff" stroke-opacity=".35"/><text x="14" y="16" fill="#8fd3ff" font-size="9" font-weight="700">REACT</text></g>
+    <g transform="translate(92 145)"><rect width="70" height="24" rx="12" fill="#53b7ff" fill-opacity=".08" stroke="#53b7ff" stroke-opacity=".35"/><text x="12" y="16" fill="#8fd3ff" font-size="9" font-weight="700">DATAVIZ</text></g>
+    <g transform="translate(170 145)"><rect width="78" height="24" rx="12" fill="#d87cff" fill-opacity=".08" stroke="#d87cff" stroke-opacity=".35"/><text x="13" y="16" fill="#e3a4ff" font-size="9" font-weight="700">SYSTEMS</text></g>
+    <text x="24" y="193" fill="#545b78" font-size="9" letter-spacing="1.8">PLANETARY INTELLIGENCE // LIVE</text>
+  </g>
+  <g aria-hidden="true">
+    <circle class="pulse" cx="475" cy="88" r="31" fill="#3665a0" fill-opacity=".3" stroke="#79c9ff"/>
+    <path d="M454 73c12 4 20 2 33-4M450 91c17-7 32-6 49 1M459 105c12-3 23-1 31 3" fill="none" stroke="#c4e7ff" stroke-opacity=".55"/>
+    <g class="planet"><ellipse cx="475" cy="88" rx="53" ry="18" fill="none" stroke="url(#accent)" stroke-width="2"/><circle cx="527" cy="88" r="5" fill="#efb8ff" filter="url(#glow)"/></g>
+  </g>
+</svg>

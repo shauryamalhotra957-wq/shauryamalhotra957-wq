@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="title desc">
+  <title id="title">GPT From Scratch Pro</title>
+  <desc id="desc">Inspectable Transformer engineering with tokenizers, training, evaluation, and tests.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#100908"/><stop offset="1" stop-color="#160912"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#ff9d4d"/><stop offset="1" stop-color="#ff5e7e"/></linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#ffad6d" stroke-opacity=".04"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.flow{animation:flow 8s linear infinite}.neuron{animation:pulse 2.8s ease-in-out infinite}.n2{animation-delay:.7s}.n3{animation-delay:1.4s}@keyframes flow{to{stroke-dashoffset:-80}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.flow,.neuron{animation:none}}</style>
+  </defs>
+  <rect width="560" height="210" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="558" height="208" rx="17" fill="none" stroke="#ff855e" stroke-opacity=".34"/><rect width="560" height="210" rx="18" fill="url(#grid)"/>
+  <path class="flow" d="M22 134H390l22-22h117" fill="none" stroke="url(#accent)" stroke-opacity=".34" stroke-dasharray="5 8"/>
+  <g font-family="Segoe UI,Inter,Arial,sans-serif">
+    <text x="24" y="28" fill="#ffad74" font-size="9" font-weight="700" letter-spacing="2.4">05 // ML ENGINEERING</text>
+    <text x="24" y="64" fill="#fff8f4" font-size="25" font-weight="750" letter-spacing="1">GPT FROM SCRATCH</text>
+    <text x="24" y="91" fill="#bba29f" font-size="12.5">A Transformer built to be understood.</text>
+    <text x="24" y="111" fill="#927a79" font-size="11.5">Tokenizers · training · evaluation · checkpoints</text>
+    <g transform="translate(24 145)"><rect width="70" height="24" rx="12" fill="#ff9d4d" fill-opacity=".08" stroke="#ff9d4d" stroke-opacity=".35"/><text x="13" y="16" fill="#ffc08a" font-size="9" font-weight="700">PYTORCH</text></g>
+    <g transform="translate(102 145)"><rect width="88" height="24" rx="12" fill="#ff9d4d" fill-opacity=".08" stroke="#ff9d4d" stroke-opacity=".35"/><text x="12" y="16" fill="#ffc08a" font-size="9" font-weight="700">TOKENIZERS</text></g>
+    <g transform="translate(198 145)"><rect width="62" height="24" rx="12" fill="#ff5e7e" fill-opacity=".08" stroke="#ff5e7e" stroke-opacity=".35"/><text x="13" y="16" fill="#ff91a7" font-size="9" font-weight="700">PYTEST</text></g>
+    <text x="24" y="193" fill="#755452" font-size="9" letter-spacing="1.8">DECODER-ONLY // INSPECTABLE</text>
+  </g>
+  <g aria-hidden="true" stroke="url(#accent)" stroke-opacity=".6">
+    <path d="M446 62l29 26 28-28M446 113l29-25 28 24M475 88v-35M475 88v35" fill="none"/>
+    <circle class="neuron" cx="446" cy="62" r="7" fill="#ff9d4d" filter="url(#glow)"/><circle class="neuron n2" cx="503" cy="60" r="7" fill="#ff5e7e" filter="url(#glow)"/><circle class="neuron n3" cx="475" cy="88" r="10" fill="#ffd1a8" filter="url(#glow)"/><circle class="neuron n2" cx="446" cy="113" r="7" fill="#ff5e7e"/><circle class="neuron" cx="503" cy="112" r="7" fill="#ff9d4d"/>
+  </g>
+</svg>

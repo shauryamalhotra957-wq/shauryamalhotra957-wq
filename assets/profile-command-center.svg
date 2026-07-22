@@ -88,12 +88,13 @@
 
     <text x="288" y="135" fill="#f3fbff" font-size="50" font-weight="750" letter-spacing="2">SHAURYA MALHOTRA</text>
     <text x="292" y="174" fill="#8faebb" font-size="15" letter-spacing="2">APPLIED AI  /  RESILIENT SYSTEMS  /  EMBEDDED INTELLIGENCE</text>
+    <text x="292" y="203" fill="#d8f8f4" font-size="11" font-weight="650" letter-spacing="2.2">BUILDING SYSTEMS THAT SURVIVE BEYOND THE DEMO.</text>
 
-    <g transform="translate(292 213)">
+    <g transform="translate(292 222)">
       <rect width="174" height="38" rx="19" fill="#42e8ff" fill-opacity="0.07" stroke="#42e8ff" stroke-opacity="0.42"/>
       <text x="22" y="24" fill="#78eeff" font-size="12" font-weight="700" letter-spacing="2">BUILD → VERIFY</text>
     </g>
-    <g transform="translate(482 213)">
+    <g transform="translate(482 222)">
       <rect width="166" height="38" rx="19" fill="#35f2a6" fill-opacity="0.07" stroke="#35f2a6" stroke-opacity="0.42"/>
       <text x="25" y="24" fill="#6cf5be" font-size="12" font-weight="700" letter-spacing="2">SHIP → LEARN</text>
     </g>

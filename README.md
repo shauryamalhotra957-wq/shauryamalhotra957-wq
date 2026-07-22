@@ -1,6 +1,6 @@
 <!--
-  Durable by design: the animated visuals below live in this repository.
-  They do not depend on scheduled workflows, generated artifacts, or hosted stats cards.
+  This profile is deliberately self-contained.
+  Every visual is stored in this repository; no scheduled jobs or hosted stats cards are required.
 -->
 
 <p align="center">
@@ -8,103 +8,108 @@
 </p>
 
 <p align="center">
-  <a href="https://shaurya-malhotra-site.vercel.app/"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/shaurya-malhotra-048555367/"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:shauryamalhotra957@gmail.com"><strong>Email</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/shauryamalhotra957-wq?tab=repositories"><strong>All projects</strong></a>
+  <a href="https://shaurya-malhotra-site.vercel.app/"><strong>PORTFOLIO ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shaurya-malhotra-048555367/"><strong>LINKEDIN ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:shauryamalhotra957@gmail.com"><strong>EMAIL ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/shauryamalhotra957-wq?tab=repositories"><strong>ALL SYSTEMS ↗</strong></a>
 </p>
 
-<p align="center">
-  <strong>Computer Engineering student · AI/ML developer · Full-stack product builder</strong><br>
-  <sub>Turning ambitious ideas into inspectable, testable systems that work beyond the demo.</sub>
-</p>
-
----
-
-## Engineering, end to end
-
-I'm pursuing a B.Tech in Computer Engineering at **Thapar Institute of Engineering and Technology**. I work where intelligent software meets real-world constraints: resilient compute, explainable decision systems, interactive products, computer vision, and embedded hardware.
+<br>
 
 <table>
   <tr>
-    <td width="25%" valign="top">
-      <strong>01 · Applied AI</strong><br><br>
-      Language models, RAG, computer vision, evaluation, and trustworthy inference workflows.
+    <td width="58%" valign="top">
+      <h2>Intelligence that survives contact with reality.</h2>
+      <p>
+        I'm a Computer Engineering undergraduate at <strong>Thapar Institute of Engineering and Technology</strong>.
+        I turn ambitious ideas into systems people can inspect, test, and actually use—from resilient GPU orchestration
+        and language models to crisis simulations, computer vision, and embedded hardware.
+      </p>
     </td>
-    <td width="25%" valign="top">
-      <strong>02 · Decision systems</strong><br><br>
-      Transparent simulations, explainable scoring, scenario planning, and reproducible outputs.
-    </td>
-    <td width="25%" valign="top">
-      <strong>03 · Product engineering</strong><br><br>
-      Accessible interfaces, APIs, local-first experiences, security controls, tests, and CI.
-    </td>
-    <td width="25%" valign="top">
-      <strong>04 · Edge + embedded</strong><br><br>
-      Arduino, IoT sensing, robotics, physical workflows, and hardware-aware validation.
+    <td width="42%" valign="top">
+      <h3>Current vectors</h3>
+      <p>
+        <code>resilient compute</code><br>
+        <code>decision intelligence</code><br>
+        <code>applied AI + evaluation</code><br>
+        <code>edge + embedded systems</code>
+      </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="./assets/engineering-signal.svg" width="100%" alt="Engineering path: sense, model, decide, interface, verify">
+  <img src="./assets/engineering-signal.svg" width="100%" alt="Engineering path from real-world signal to verified system">
 </p>
 
-## Selected systems
+## Flagship systems
+
+<p>Six different domains. One standard: <strong>clear architecture, useful interfaces, and evidence that the system works.</strong></p>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shauryamalhotra957-wq/kairomesh">KairoMesh</a></h3>
-      <p><strong>GPU jobs that finish—even when hosts don't.</strong> A resilient outcome-cloud prototype with deterministic placement, checkpoint recovery, fencing, and tamper-evident receipts.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Vitest</code> <code>Playwright</code></p>
+    <td width="50%">
+      <a href="https://github.com/shauryamalhotra957-wq/kairomesh">
+        <img src="./assets/projects/kairomesh.svg" width="100%" alt="KairoMesh — resilient GPU outcome cloud">
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shauryamalhotra957-wq/morrow">Morrow</a></h3>
-      <p><strong>A crisis rehearsal lab, not a black box.</strong> Explore a transparent 72-hour cascade model, seeded sensitivity analysis, bounded portfolio search, and reproducible briefs.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Fastify</code> <code>PWA</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shauryamalhotra957-wq/horizon-atlas">Horizon Atlas</a> · <a href="https://horizon-atlas-lab.shauryamalhotra957.chatgpt.site">Live</a></h3>
-      <p><strong>A cinematic planetary intelligence lab.</strong> Compare possible futures across energy, food, water, health, and education through an interactive systems lens.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Simulation</code> <code>Data visualization</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shauryamalhotra957-wq/terra-sentinel">Terra Sentinel</a> · <a href="https://shauryamalhotra957-wq.github.io/terra-sentinel/">Live</a></h3>
-      <p><strong>Decision support for disaster lifelines.</strong> Explainable district risk, resource allocation, forecasting, multilingual warnings, and offline-capable operations.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Offline-first</code></p>
+    <td width="50%">
+      <a href="https://github.com/shauryamalhotra957-wq/morrow">
+        <img src="./assets/projects/morrow.svg" width="100%" alt="Morrow — local-first crisis rehearsal lab">
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro">GPT From Scratch Pro</a></h3>
-      <p><strong>A Transformer built to be understood.</strong> Decoder-only architecture, tokenizers, resumable training, evaluation, generation, checkpoints, CLI, tests, and docs.</p>
-      <p><code>Python</code> <code>PyTorch</code> <code>pytest</code> <code>Ruff</code></p>
+    <td width="50%">
+      <a href="https://github.com/shauryamalhotra957-wq/horizon-atlas">
+        <img src="./assets/projects/horizon-atlas.svg" width="100%" alt="Horizon Atlas — planetary intelligence lab">
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shauryamalhotra957-wq/AutoFlora-An-IoT-Framework-for-Urban-Roadside-Plantation">AutoFlora</a></h3>
-      <p><strong>Autonomous care for roadside ecosystems.</strong> Soil-moisture mapping, flow telemetry, tank sensing, and weather-aware failsafes for responsible irrigation.</p>
-      <p><code>C++</code> <code>Arduino</code> <code>IoT</code> <code>Sensors</code></p>
+    <td width="50%">
+      <a href="https://github.com/shauryamalhotra957-wq/terra-sentinel">
+        <img src="./assets/projects/terra-sentinel.svg" width="100%" alt="Terra Sentinel — humanitarian risk command center">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro">
+        <img src="./assets/projects/gpt-from-scratch.svg" width="100%" alt="GPT From Scratch Pro — inspectable Transformer engineering">
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/shauryamalhotra957-wq/AutoFlora-An-IoT-Framework-for-Urban-Roadside-Plantation">
+        <img src="./assets/projects/autoflora.svg" width="100%" alt="AutoFlora — autonomous roadside ecosystem care">
+      </a>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/shauryamalhotra957-wq/helix-command"><strong>HELIX Command</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/shauryamalhotra957-wq/jarvis"><strong>JARVIS</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/shauryamalhotra957-wq/EcoConnect-Vision"><strong>EcoConnect Vision</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/shauryamalhotra957-wq/newscred-rag"><strong>NewsCred RAG</strong></a>
-</p>
+<p align="center"><sub>Every panel is clickable · source, architecture, tests, and documentation live inside each repository</sub></p>
 
-## Operating stack
+## Engineering DNA
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>◈ Make it inspectable</h3>
+      <p>Expose assumptions, constraints, failure modes, and trust boundaries. Intelligence should be explainable from interface to implementation.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>◎ Design for operators</h3>
+      <p>Accessibility, responsive behavior, privacy, offline constraints, and useful failure states are engineering requirements—not polish.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⌁ Ship with proof</h3>
+      <p>Tests, static analysis, security checks, deterministic fixtures, visual QA, and honest documentation belong in the feature.</p>
+    </td>
+  </tr>
+</table>
+
+## Runtime
 
 <p align="center">
   <code>Python</code>&nbsp;
@@ -135,45 +140,34 @@ I'm pursuing a B.Tech in Computer Engineering at **Thapar Institute of Engineeri
   <code>pytest</code>
 </p>
 
-## What I optimize for
-
-- **Inspectable intelligence** — architecture, assumptions, limitations, and trust boundaries belong in the product.
-- **Proof over polish alone** — tests, static analysis, security checks, reproducible fixtures, and clear documentation.
-- **Real operator needs** — accessibility, responsive behavior, privacy, offline constraints, and useful failure states.
-- **Honest prototypes** — synthetic data, simulations, and production gaps are labeled instead of hidden.
-
-```text
-signal → model → decision → interface → verification
-```
-
 <details>
-<summary><strong>Open the full repository map</strong></summary>
+<summary><strong>Explore the complete systems map</strong></summary>
 
 ### AI, ML, and data
 
-- [AI Highlight Reel Maker](https://github.com/shauryamalhotra957-wq/ai-highlight-reel-maker)
-- [AI Lecture Note Taker](https://github.com/shauryamalhotra957-wq/ai-lecture-note-taker)
-- [Bank Customer Churn Prediction](https://github.com/shauryamalhotra957-wq/bank-customer-churn-prediction)
-- [DressRight AI](https://github.com/shauryamalhotra957-wq/dressright-ai)
-- [EcoConnect Vision](https://github.com/shauryamalhotra957-wq/EcoConnect-Vision)
-- [GPT From Scratch Pro](https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro)
-- [NewsCred RAG](https://github.com/shauryamalhotra957-wq/newscred-rag)
+[AI Highlight Reel Maker](https://github.com/shauryamalhotra957-wq/ai-highlight-reel-maker) ·
+[AI Lecture Note Taker](https://github.com/shauryamalhotra957-wq/ai-lecture-note-taker) ·
+[Bank Customer Churn Prediction](https://github.com/shauryamalhotra957-wq/bank-customer-churn-prediction) ·
+[DressRight AI](https://github.com/shauryamalhotra957-wq/dressright-ai) ·
+[EcoConnect Vision](https://github.com/shauryamalhotra957-wq/EcoConnect-Vision) ·
+[GPT From Scratch Pro](https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro) ·
+[NewsCred RAG](https://github.com/shauryamalhotra957-wq/newscred-rag)
 
 ### Simulations and interactive systems
 
-- [Aegis Atlas](https://github.com/shauryamalhotra957-wq/aegis-atlas)
-- [Aegis Earth](https://github.com/shauryamalhotra957-wq/aegis-earth)
-- [HELIX Command](https://github.com/shauryamalhotra957-wq/helix-command)
-- [Horizon Atlas](https://github.com/shauryamalhotra957-wq/horizon-atlas)
-- [JARVIS](https://github.com/shauryamalhotra957-wq/jarvis)
-- [KairoMesh](https://github.com/shauryamalhotra957-wq/kairomesh)
-- [Morrow](https://github.com/shauryamalhotra957-wq/morrow)
-- [Terra Sentinel](https://github.com/shauryamalhotra957-wq/terra-sentinel)
+[Aegis Atlas](https://github.com/shauryamalhotra957-wq/aegis-atlas) ·
+[Aegis Earth](https://github.com/shauryamalhotra957-wq/aegis-earth) ·
+[HELIX Command](https://github.com/shauryamalhotra957-wq/helix-command) ·
+[Horizon Atlas](https://github.com/shauryamalhotra957-wq/horizon-atlas) ·
+[JARVIS](https://github.com/shauryamalhotra957-wq/jarvis) ·
+[KairoMesh](https://github.com/shauryamalhotra957-wq/kairomesh) ·
+[Morrow](https://github.com/shauryamalhotra957-wq/morrow) ·
+[Terra Sentinel](https://github.com/shauryamalhotra957-wq/terra-sentinel)
 
 ### Embedded systems and robotics
 
-- [AutoFlora](https://github.com/shauryamalhotra957-wq/AutoFlora-An-IoT-Framework-for-Urban-Roadside-Plantation)
-- [Obstacle-Avoiding Car](https://github.com/shauryamalhotra957-wq/Obstacle-Avoiding-Car)
+[AutoFlora](https://github.com/shauryamalhotra957-wq/AutoFlora-An-IoT-Framework-for-Urban-Roadside-Plantation) ·
+[Obstacle-Avoiding Car](https://github.com/shauryamalhotra957-wq/Obstacle-Avoiding-Car)
 
 </details>
 
@@ -182,11 +176,11 @@ signal → model → decision → interface → verification
 <h3 align="center">Build systems people can inspect, trust, and use.</h3>
 
 <p align="center">
-  <a href="mailto:shauryamalhotra957@gmail.com">Let's build something useful</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/shauryamalhotra957-wq/shauryamalhotra957-wq/issues/new">Start a conversation</a>
+  <a href="mailto:shauryamalhotra957@gmail.com"><strong>START A CONVERSATION</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/shauryamalhotra957-wq?tab=repositories"><strong>EXPLORE THE WORK</strong></a>
 </p>
 
 <p align="center">
-  <sub>Repository-owned visuals · no expiring widgets · motion loops while the page is open</sub>
+  <sub>Zero expiring widgets · zero scheduled generators · repository-owned motion that loops indefinitely</sub>
 </p>
