@@ -45,6 +45,18 @@
   <img src="./assets/engineering-signal.svg" width="100%" alt="Engineering path from real-world signal to verified system">
 </p>
 
+## Choose a review path
+
+Short on time? Start with the lane closest to the work you care about. Each route points to implementation, not a detached showcase.
+
+| Review lane | Start here | What to inspect |
+| --- | --- | --- |
+| Resilient AI infrastructure | [KairoMesh](https://github.com/shauryamalhotra957-wq/kairomesh) | failure-aware GPU orchestration, observability, and operator workflows |
+| Decision intelligence + UI | [Aegis Earth](https://github.com/shauryamalhotra957-wq/aegis-earth) → [Horizon Atlas](https://github.com/shauryamalhotra957-wq/horizon-atlas) | explainable risk, scenario controls, accessibility, and responsive interaction |
+| Applied AI product boundaries | [DressRight AI](https://github.com/shauryamalhotra957-wq/dressright-ai) | secure uploads, retrieval boundaries, pricing logic, and tested public flows |
+| From-scratch ML engineering | [GPT From Scratch Pro](https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro) | inspectable Transformer internals, training/evaluation paths, and reproducibility |
+| Embedded safety | [AutoFlora](https://github.com/shauryamalhotra957-wq/AutoFlora-An-IoT-Framework-for-Urban-Roadside-Plantation) | calibration, fail-safe pump control, flow telemetry, and field-operator guidance |
+
 ## Flagship systems
 
 <p>Six different domains. One standard: <strong>clear architecture, useful interfaces, and evidence that the system works.</strong></p>
