@@ -2,7 +2,7 @@
   This profile is deliberately self-contained.
   Every visual is stored in this repository; no scheduled jobs or hosted stats cards are required.
 -->
-
+   
 <p align="center">
   <img src="./assets/profile-command-center.svg" width="100%" alt="Shaurya Malhotra — applied AI, resilient systems, and embedded intelligence">
 </p>
