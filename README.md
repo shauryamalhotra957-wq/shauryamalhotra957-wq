@@ -153,6 +153,21 @@
 [GPT From Scratch Pro](https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro) ·
 [NewsCred RAG](https://github.com/shauryamalhotra957-wq/newscred-rag)
 
+### Systems, security, and supply-chain
+
+[CodeSupply](https://github.com/shauryamalhotra957-wq/codesupply) ·
+[Focus Guard](https://github.com/shauryamalhotra957-wq/focus-guard) ·
+[HandWheel](https://github.com/shauryamalhotra957-wq/HandWheel) ·
+[Mission Code Guard](https://github.com/shauryamalhotra957-wq/mission-code-guard) ·
+[EchoProof Agent Visibility Lab](https://github.com/shauryamalhotra957-wq/echoproof-agent-visibility-lab)
+
+### Decision intelligence and causal simulation
+
+[Contraria Decision OS](https://github.com/shauryamalhotra957-wq/contraria-decision-os) ·
+[Faultline Decision Observability](https://github.com/shauryamalhotra957-wq/faultline-decision-observability) ·
+[Morrow Decision Compiler](https://github.com/shauryamalhotra957-wq/morrow-decision-compiler) ·
+[NullSet Decision Compiler](https://github.com/shauryamalhotra957-wq/nullset-decision-compiler)
+
 ### Simulations and interactive systems
 
 [Aegis Atlas](https://github.com/shauryamalhotra957-wq/aegis-atlas) ·
@@ -161,6 +176,7 @@
 [Horizon Atlas](https://github.com/shauryamalhotra957-wq/horizon-atlas) ·
 [JARVIS](https://github.com/shauryamalhotra957-wq/jarvis) ·
 [KairoMesh](https://github.com/shauryamalhotra957-wq/kairomesh) ·
+[LatticeCut](https://github.com/shauryamalhotra957-wq/latticecut) ·
 [Morrow](https://github.com/shauryamalhotra957-wq/morrow) ·
 [Terra Sentinel](https://github.com/shauryamalhotra957-wq/terra-sentinel)
 
