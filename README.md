@@ -1,3 +1,7 @@
+# shauryamalhotra957-wq
+
+[![CI](https://github.com/shauryamalhotra957-wq/shauryamalhotra957-wq/actions/workflows/ci.yml/badge.svg)](https://github.com/shauryamalhotra957-wq/shauryamalhotra957-wq/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <!--
   This profile is deliberately self-contained.
   Every visual is stored in this repository; no scheduled jobs or hosted stats cards are required.
