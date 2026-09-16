@@ -1,0 +1,19 @@
+name: Profile Validation CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate README exists and has non-zero size
+        run: |
+          test -s README.md || exit 1
+          echo "Profile README is present and valid."

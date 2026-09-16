@@ -152,6 +152,7 @@
 [AI Highlight Reel Maker](https://github.com/shauryamalhotra957-wq/ai-highlight-reel-maker) ·
 [AI Lecture Note Taker](https://github.com/shauryamalhotra957-wq/ai-lecture-note-taker) ·
 [Bank Customer Churn Prediction](https://github.com/shauryamalhotra957-wq/bank-customer-churn-prediction) ·
+[BHSD Dataset Models](https://github.com/shauryamalhotra957-wq/BHSD-DATASET-Models) ·
 [DressRight AI](https://github.com/shauryamalhotra957-wq/dressright-ai) ·
 [EcoConnect Vision](https://github.com/shauryamalhotra957-wq/EcoConnect-Vision) ·
 [GPT From Scratch Pro](https://github.com/shauryamalhotra957-wq/gpt-from-scratch-pro) ·
@@ -182,12 +183,18 @@
 [KairoMesh](https://github.com/shauryamalhotra957-wq/kairomesh) ·
 [LatticeCut](https://github.com/shauryamalhotra957-wq/latticecut) ·
 [Morrow](https://github.com/shauryamalhotra957-wq/morrow) ·
+[Orbitarium Live](https://github.com/shauryamalhotra957-wq/orbitarium-live) ·
 [Terra Sentinel](https://github.com/shauryamalhotra957-wq/terra-sentinel)
 
 ### Embedded systems and robotics
 
 [AutoFlora](https://github.com/shauryamalhotra957-wq/AutoFlora-An-IoT-Framework-for-Urban-Roadside-Plantation) ·
 [Obstacle-Avoiding Car](https://github.com/shauryamalhotra957-wq/Obstacle-Avoiding-Car)
+
+### Mobile and cross-platform applications
+
+[AuraNest](https://github.com/shauryamalhotra957-wq/aura_nest) ·
+[ChefMate](https://github.com/shauryamalhotra957-wq/chefmate-recipe-app)
 
 </details>
 
