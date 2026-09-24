@@ -6,6 +6,7 @@
 [![GitHub Commits](https://img.shields.io/badge/Commits-1000+-brightgreen.svg?style=flat-square)](https://github.com/shauryamalhotra957-wq)
 [![Verified Repositories](https://img.shields.io/badge/Production%20Repositories-32-blue.svg?style=flat-square)](https://github.com/shauryamalhotra957-wq)
 [![Engineering Standard](https://img.shields.io/badge/Standard-Production%20Hardened-orange.svg?style=flat-square)](docs/ECOSYSTEM_ARCHITECTURE.md)
+[![Engineering Manifesto](https://img.shields.io/badge/Manifesto-Autonomous%20Systems-purple.svg?style=flat-square)](docs/ENGINEERING_MANIFESTO.md)
 
 ---
 
