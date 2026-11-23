@@ -1,4 +1,0 @@
-{
-  "name": "Portfolio Maintenance Environment",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:24"
-}

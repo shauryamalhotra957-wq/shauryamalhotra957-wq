@@ -1,5 +1,0 @@
-version: '3.8'
-services:
-  github-profile:
-    build: .
-    command: node --test tests/ecosystem_health.test.mjs
