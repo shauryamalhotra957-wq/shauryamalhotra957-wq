@@ -26,23 +26,6 @@ I like building things that solve real problems — from AI models to embedded s
 
 ---
 
-### 🚀 Some things I've built
-
-| Project | What it does |
-|---|---|
-| **GPT from Scratch** | Full transformer architecture built from first principles in PyTorch — tokenizer, training loop, checkpoints, the works |
-| **EcoConnect Vision** | Real-time waste classifier using OpenCV motion detection + MobileNetV2 |
-| **FinTwin** | Financial digital twin of 390+ US public companies from SEC XBRL filings with Monte Carlo stress testing |
-| **Omen Control Lite** | Lightweight native Windows fan/hardware controller for HP OMEN laptops, written in Rust |
-| **AutoFlora** | IoT framework for automated urban roadside plantation — soil moisture mapping, weather-predictive failsafes |
-| **ChefMate** | Smart recipe recommendation and step-by-step cooking assistant web app |
-| **Focus Guard** | Privacy-first webcam app that detects phone usage during work sessions |
-| **Mithridatium** | Tool for detecting backdoors and data poisoning in pretrained ML models |
-
-> Most of my repos are private — feel free to reach out if you want to see anything.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
